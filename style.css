@@ -1,0 +1,28 @@
+
+div.relative {
+   position: relative;
+  width: 400px;
+  height:100px;
+ left: 300px;
+ background-color: rgb(175, 223, 175);
+  
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align: justify;
+}
+
+.one {
+    position: sticky;
+    top: 0px;
+    background-color: rgb(175, 105, 105);
+}
+.two {
+    position: sticky;
+    top: 0px;
+    background-color: khaki;
+}
+.three {
+    position: sticky;
+    top: 0px;
+    background-color: rgb(171, 120, 206);
+}
